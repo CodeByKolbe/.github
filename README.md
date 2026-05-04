@@ -1,4 +1,4 @@
-# ⚙️ .github | Global Defaults
+# .github | Global Defaults
 
 This repository is a central hub for my GitHub account's **Community Health Files**. It provides a consistent set of guidelines and templates for all my public projects.
 
