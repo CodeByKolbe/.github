@@ -2,9 +2,6 @@
 
 This repository is a central hub for my GitHub account's **Community Health Files**. It provides a consistent set of guidelines and templates for all my public projects.
 
-## Purpose
-GitHub uses this repository as a **global fallback**. If one of my repositories is missing a `CONTRIBUTING.md`, `SECURITY.md`, or specific issue templates, GitHub will automatically serve the files found here. This ensures a professional standard across my entire profile without duplicating files in every project.
-
 ---
 
 ## Repository Structure
